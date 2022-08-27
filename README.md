@@ -1,6 +1,7 @@
 # Justdoit - Todo List
 
-<a href="https://ronaldfer.github.io/todolist/dist">Live Demo </a>
+<a href="https://ronaldfer.github.io/todolist/dist">Justdoit </a>
+<a href="https://ronaldfer.github.io/mini-apps/todo-app/index.html">To Do light</a>
 
 ![](src/images/justdoitrfs.png)
 
