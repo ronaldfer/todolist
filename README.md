@@ -1,8 +1,6 @@
 # Justdoit - Todo List
 
 <a href="https://ronaldfer.github.io/todolist/dist">Justdoit </a>
-<br>
-<a href="https://ronaldfer.github.io/mini-apps/todo-app/index.html">To Do Tasks</a>
 
 ![](src/images/justdoitrfs.png)
 
