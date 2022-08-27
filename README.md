@@ -2,11 +2,11 @@
 
 <a href="https://ronaldfer.github.io/todolist/dist">Live Demo </a>
 
-![](src/images/justdoit.png)
+![](src/images/justdoitrfs.png)
 
 # About the Project
 
-Justdoit is a todo list application created using vanilla JavaScript and storage using localStorage. It helps you to manage your personal and professional productivity.
+Hi, Justdoit is a todo list application created using vanilla JavaScript and storage using localStorage. It helps you to manage your personal and professional productivity.
 
 ## Features
 
@@ -28,3 +28,7 @@ Justdoit is a todo list application created using vanilla JavaScript and storage
 Font: <a href="https://www.dafont.com/themes.php">Dafont </a>
 \
 Icons: <a href="https://www.svgrepo.com/">SVG Repo </a>
+
+# Developer
+
+Ronald Fernandez
