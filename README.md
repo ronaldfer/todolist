@@ -1,6 +1,6 @@
 # Justdoit - Todo List
 
-<a href="https://ronaldfer.github.io/todolist">Live Demo </a>
+<a href="https://ronaldfer.github.io/todolist/dist">Live Demo </a>
 
 ![](src/images/justdoit.png)
 
